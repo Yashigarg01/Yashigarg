@@ -1,6 +1,6 @@
 # Yashigarg
 # 💫 About Me:
-Hi, I'm Yashi Garg! 👋<br>I’m a passionate Software Developer with 10 months of experience in building responsive and user-friendly applications. My expertise lies in React.js, Next.js, Bootstrap, JavaScript (ES6), and REST APIs, with a focus on creating scalable and efficient solutions. I love coding, problem-solving, and continuously learning new technologies to enhance my skillset.<br><br>🚀 Currently working on exciting web projects and exploring full-stack development with React.js and Next.js.<br>💡 Always eager to collaborate on innovative projects and contribute to open-source communities.<br><br>📫 Feel free to reach out: yashi.g4arg1991@gmail.com | LinkedIn
+Hi, I'm Yashi Garg! 👋<br>I’m a passionate Software Developer with 11 months of experience in building responsive and user-friendly applications. My expertise lies in React.js, Next.js, Bootstrap, JavaScript (ES6), and REST APIs, with a focus on creating scalable and efficient solutions. I love coding, problem-solving, and continuously learning new technologies to enhance my skillset.<br><br>🚀 Currently working on exciting web projects and exploring full-stack development with React.js and Next.js.<br>💡 Always eager to collaborate on innovative projects and contribute to open-source communities.<br><br>📫 Feel free to reach out: yashi.g4arg1991@gmail.com | LinkedIn
 
 
 ## 🌐 Socials:
